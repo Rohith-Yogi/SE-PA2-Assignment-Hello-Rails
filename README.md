@@ -1,3 +1,8 @@
+# Rehash
+export PATH="$HOME/.rbenv/bin:$PATH"
+eval "$(rbenv init -)"
+rbenv local 3.2.2
+
 # README
 
 This README would normally document whatever steps are necessary to get the
